@@ -1,7 +1,6 @@
 
 fastapi
-tensorflow-cpu
 uvicorn
-Pillow
-python-multipart
-protobuf
+tensorflow
+numpy
+pillow
